@@ -1,2 +1,2 @@
-superuser: Sam    password: python
+Прицепился файл .idea/gitignore и его просто никак не могу удалить
 
